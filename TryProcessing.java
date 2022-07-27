@@ -10,8 +10,6 @@ public class TryProcessing extends PApplet {
     int bx3 = 0;
     int bx4 = 0;
 
-
-
     public static void main(String[] args){
         PApplet.main("TryProcessing",args);
     }
